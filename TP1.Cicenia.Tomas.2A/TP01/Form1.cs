@@ -15,6 +15,7 @@ namespace TP01
         public Calc()
         {
             InitializeComponent();
+            cmbOperacion.SelectedItem = "+";
         }
 
         private void Calculadora_Load(object sender, EventArgs e)
@@ -32,15 +33,25 @@ namespace TP01
             txtNumero1.Clear();
             txtNumero2.Clear();
             lblResultado.Text="Resultado";
+            cmbOperacion.SelectedItem = "+";
             txtNumero1.Focus();
         }
 
         private void btnOperar_Click(object sender, EventArgs e)
         {
-            Numero numero1 = new Numero(txtNumero1.Text);
-            Numero numero2 = new Numero(txtNumero2.Text);
+            if (txtNumero1.Text != "" && txtNumero2.Text != "")
+            {
+                Numero numero1 = new Numero(txtNumero1.Text);
+                Numero numero2 = new Numero(txtNumero2.Text);
 
-            lblResultado.Text = Convert.ToString(Calculadora.operar(numero1, numero2, cmbOperacion.Text));
+                lblResultado.Text = Convert.ToString(Calculadora.operar(numero1, numero2, cmbOperacion.Text));
+            }
+            else
+            {
+                MessageBox.Show("Debe completar todos los campos");
+                
+            }
+            
         }
     }
 }

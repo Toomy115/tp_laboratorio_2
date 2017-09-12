@@ -22,7 +22,7 @@ namespace TP01
 
         public Numero(double numero)
         {
-            this._numero = (int)numero;
+            this._numero = numero;
         }
 
         public Numero (string numero)
