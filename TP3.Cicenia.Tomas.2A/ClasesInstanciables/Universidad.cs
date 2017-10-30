@@ -107,10 +107,10 @@ namespace ClasesInstanciables
             {
                 g.alumnos.Add(a);
             }
-            else
+            /*else
             {
                 throw new Excepciones.AlumnoRepetidoException();
-            }
+            }*/
             return g;
         }
 
