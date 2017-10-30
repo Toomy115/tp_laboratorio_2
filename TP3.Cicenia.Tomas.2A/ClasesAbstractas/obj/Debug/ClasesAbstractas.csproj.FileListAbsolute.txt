@@ -1,0 +1,10 @@
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\ClasesAbstractas\bin\Debug\Archivos.dll
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\ClasesAbstractas\bin\Debug\Archivos.pdb
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

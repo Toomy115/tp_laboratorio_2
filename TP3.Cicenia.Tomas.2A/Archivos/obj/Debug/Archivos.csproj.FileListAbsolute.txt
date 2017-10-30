@@ -1,0 +1,8 @@
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\Archivos\bin\Debug\Archivos.dll
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\Archivos\bin\Debug\Archivos.pdb
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\Archivos\obj\Debug\Archivos.dll
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\Archivos\obj\Debug\Archivos.pdb
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\Archivos\bin\Debug\Excepciones.dll
+C:\Users\tomas\Desktop\TP3.Cicenia.Tomas.2A\Archivos\bin\Debug\Excepciones.pdb
