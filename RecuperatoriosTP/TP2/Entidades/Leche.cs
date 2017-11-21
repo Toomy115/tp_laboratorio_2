@@ -19,10 +19,16 @@ namespace Entidades_2017
         /// <param name="marca"></param>
         /// <param name="patente"></param>
         /// <param name="color"></param>
-        public Leche(EMarca marca, string patente, ConsoleColor color, ETipo tipo)
+        public Leche(EMarca marca, string patente, ConsoleColor color)
             : base(marca,patente,color)
         {
             this._tipo = ETipo.Entera;
+        }
+
+        public Leche(EMarca marca, string codigo, ConsoleColor color, ETipo tipo)
+            : base(marca, codigo, color)
+        {
+            this._tipo = tipo;
         }
 
         /// <summary>
